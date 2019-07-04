@@ -1,0 +1,43 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/tsi/Library/Developer/Xcode/DerivedData/LeftMenu-cyfzlxqrkyzmqpfjvtknonphwfno/Build/Products/Debug-iphonesimulator/LeftMenu.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "LeftMenu-Swift.h",
+          'external-contents': "/Users/tsi/Library/Developer/Xcode/DerivedData/LeftMenu-cyfzlxqrkyzmqpfjvtknonphwfno/Build/Products/Debug-iphonesimulator/LeftMenu.framework/Headers/LeftMenu-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "LeftMenu.h",
+          'external-contents': "/Users/tsi/Desktop/LeftMenu/LeftMenu/LeftMenu.h"
+        },
+        {
+          'type': 'file',
+          'name': "MVYSideMenuController.h",
+          'external-contents': "/Users/tsi/Desktop/LeftMenu/LeftMenu/MVYSideMenuController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MVYSideMenuOptions.h",
+          'external-contents': "/Users/tsi/Desktop/LeftMenu/LeftMenu/MVYSideMenuOptions.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/tsi/Library/Developer/Xcode/DerivedData/LeftMenu-cyfzlxqrkyzmqpfjvtknonphwfno/Build/Products/Debug-iphonesimulator/LeftMenu.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/tsi/Desktop/LeftMenu/build/LeftMenu.build/Debug-iphonesimulator/LeftMenu.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

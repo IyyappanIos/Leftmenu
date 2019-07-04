@@ -1,0 +1,6 @@
+framework module LeftMenu {
+  umbrella header "LeftMenu.h"
+
+  export *
+  module * { export * }
+}

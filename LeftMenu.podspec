@@ -7,7 +7,7 @@ spec.description  = 'The left menu control is a completely customizable side men
 spec.homepage     = 'https://github.com/IyyappanIos/Leftmenu.git'
 spec.author       =  { 'Iyyappan Kumarakrishnan' => 'iyyappan265@gmail.com' }
 spec.source       =  { :git => 'https://github.com/IyyappanIos/Leftmenu.git', :tag => '1.0.0' }
-spec.licence	    = 'Apache 2.0'
+spec.license	    = 'Apache 2.0'
 spec.platform     =  :ios
 
 end
